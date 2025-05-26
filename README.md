@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=FF6F00&width=435&lines=Hi+there!+I'm+Manish+Rathod;Business+Intelligence+Analyst+%7C+Data+Storyteller+%7C+SQL+%26+Power+BI+Developer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=FF6F00&width=600&lines=Hi+there!+I'm+Manish+Rathod;Business+Intelligence+Analyst;Data+Storyteller+%7C+SQL+%26+Power+BI+Developer" alt="Typing SVG" />
+
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -7,7 +8,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/Ut7zeRXCmxc0td7N68/giphy.gif" alt="data sticker" />
+  <img height="150" src="https://media.giphy.com/media/zZobsjJdDcHGgY8NDA/giphy.gif" alt="typing sticker" />
 </div>
 
 ---
